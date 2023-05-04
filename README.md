@@ -1,2 +1,2 @@
-This is a random Web.
-Yeah... that is pretty much it.
+I have decided to make a Website(ikd what) and this is it
+That is the description...
