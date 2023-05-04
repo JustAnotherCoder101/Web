@@ -1,2 +1,3 @@
-I have decided to make a Website(ikd what) and this is it
-That is the description...
+This will be my web(not thought of a purpose yet).
+
+I will use HTML,CSS and Javascript
